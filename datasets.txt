@@ -1,0 +1,5 @@
+Dataset utilizado: Mendeley
+
+- https://data.mendeley.com/datasets/vxhx934tbn/2
+
+The dataset includes movement sensor data from sensors placed on the collar and the harness of a dog and recorded while the dog is given tasks or activities to perform. The task are: galloping, lying on chest, sitting, sniffing, standing, trotting, and walking.
